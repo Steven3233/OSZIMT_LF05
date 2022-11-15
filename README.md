@@ -1,1 +1,1 @@
-# OSZIMT_LF05_Zickermann
+# OSZIMT_LF05
